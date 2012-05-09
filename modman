@@ -1,0 +1,8 @@
+Block app/code/community/Aschroder_SMTPPro/Block
+Helper  app/code/community/Aschroder_SMTPPro/Helper
+Model  app/code/community/Aschroder_SMTPPro/Model
+controllers  app/code/community/Aschroder_SMTPPro/controllers
+etc  app/code/community/Aschroder_SMTPPro/etc
+modules app/etc/modules
+sql  app/code/community/Aschroder_SMTPPro/sql
+templates  app/design/adminhtml/default/default/templates
